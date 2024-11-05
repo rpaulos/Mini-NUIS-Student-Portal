@@ -12,7 +12,7 @@ consultation phase.
 
 **1. Term Selection**  
 - Users can choose a term, with Term 1 set as the default.  
-- If a user attempts to select a term without having submitted grades for the previous term, a pop-up window will alert them that access to that term is restricted until prerequisites are completed.  
+- If a user attempts to select a term without having submitted grades for the previous term, a pop-up window will alert them that access to that term is restricted until grades have been submitted to the previous term.  
 
 **2. Grade Input Mechanism**  
 - Users can input grades for each course through a combo box with the following options:  
