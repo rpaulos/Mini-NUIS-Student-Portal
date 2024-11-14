@@ -42,4 +42,4 @@ consultation phase.
 - Users must achieve a passing grade (greater than or equal to 1.0) in prerequisite courses to proceed.  
 
 **7. Graduation Notification**  
-- When all courses have been passed, a final pop-up window will notify the user that they are eligible for graduation.  
+- When all courses have been passed, a final pop-up window will notify the user that they are eligible for graduation. 
